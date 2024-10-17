@@ -1,5 +1,7 @@
-p {
-  color: red;
+html {
+  color: green;
   width: 500px;
   border: 1px solid black;
+  background: black;
+  position: center;
 }
